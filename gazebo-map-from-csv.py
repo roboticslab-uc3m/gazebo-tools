@@ -2,7 +2,7 @@
 
 # Authors: Juan G Victores
 # CopyPolicy: released under the terms of the LGPLv2.1
-# URL: https://github.com/jgvictores/gazebo-map-tools
+# URL: https://github.com/roboticslab-uc3m/gazebo-tools
 
 from lxml import etree
 
