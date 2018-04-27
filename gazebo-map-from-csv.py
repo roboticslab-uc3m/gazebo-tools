@@ -8,7 +8,7 @@ from lxml import etree
 
 #-- User variables
 boxHeight = 1.0
-inFileStr = 'map1.csv'
+inFileStr = 'examples/map1.csv'
 
 resolution = 1.0  # Just to make similar to MATLAB [pixel/meter]
 meterPerPixel = 1 / resolution  # [meter/pixel]
