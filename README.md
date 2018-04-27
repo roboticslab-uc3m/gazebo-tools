@@ -1,2 +1,2 @@
-# gazebo-map-tools
-Gazebo map tools
+# gazebo-tools
+Gazebo tools
