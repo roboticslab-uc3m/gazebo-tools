@@ -1,2 +1,6 @@
 # gazebo-tools
-Gazebo tools
+
+Install dependencies
+```bash
+sudo -H pip install -r requirements.txt
+```
